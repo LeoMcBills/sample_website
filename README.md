@@ -1,6 +1,6 @@
 Steps to host a website with GitHub Pages for free
 
-	cd repos/sample_\website
+	cd repos/sample_website
 	touch index.html
 
 	git init
