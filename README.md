@@ -25,4 +25,5 @@ GitHub pages use the special gh-pages branch in place for master
 	git push -u origin gh-pages
 
 Use the following link to load your website anywhere
-	https://<username>.github.io/<repoName>
+	
+ 	https://<username>.github.io/<repoName>
